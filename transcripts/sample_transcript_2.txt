@@ -1,0 +1,18 @@
+Some teams might bring higher revenue but no proper talk time with student.
+[39:43] Candidate: Marketing — spend, ROAS, CAC, lookalike or demand gen campaigns. Batch operations — students enrolled, attending class, raised issues, resolved within timeline.
+[42:00] Interviewer: A stakeholder disagrees with your data — for example you show 1000 enrolled, he says 2000. How will you handle?
+[43:05] Candidate: We cannot say 100% accuracy — even leadership knows 99.5%. If leadership found mistake, we listen and cross check post meeting. I cannot disturb the decorum. I note down and rectify after meeting. But if the meeting depends on that data, immediately I look and resolve. Before going to meeting I make sure to do proper check.
+[45:48] Interviewer: Multiple stakeholders — one in India, one in US — both saying P1, but you can only do one. How will you choose?
+[46:42] Candidate: I see which makes proper sense — towards company growth, impacting directly. For example, one client raises "bring dialer to main screen", another "want browser to search internet". For me priority is browser. Because currently he can access dialer from inside UI, not from main UI.
+[49:05] Interviewer: The stakeholder you are not picking — how will you explain?
+[50:05] Candidate: I list down requirements, internally analyze with business team. I connect with stakeholder and explain which project is important to take immediately. I convince by explaining priority — and how the other can be managed for some days, deprioritizing for some days, not completely. Give proper analysis of consequences.
+[51:11] Interviewer: When multiple parties are involved in a complicated process, how do you measure success?
+[53:22] Candidate: Not only me — lot of dependencies. Other teams supported, prioritized, listened to my queries. I will not take that success first — I give it to the team. Their success is my success.
+[54:12] Candidate: If there is lag and no one able to do it, sometimes not from my end. I take the blame, because leadership trusted me. I do complete research where mistake happened, fix it, tell team how important the project is. If stuck I support them.
+[58:57] Interviewer: I am done with my questions. Last phase — exit. Any feedback or questions?
+[59:46] Candidate: Thanks for this opportunity. I got a lot from the critical thinking questions. In this JD there are two things — BPO and software development. What exactly will this company do?
+[60:29] Interviewer: I am a third party. Based on requirement, you will be into multiple things — vendor management, BPO, security. No single leg. They were looking for someone who can do everything.
+[61:56] Candidate: Any feedback for me?
+[61:59] Interviewer: You use lot of jargons in Hindi when you try to explain. In starting round fine, but as rounds increase it will be about communication and confidence. In leadership round, they look at confidence. These roles connect with VPs, SVPs, high-level vendors. If you sort that, it solves the problem.
+[63:06] Candidate: Thank you so much.
+[63:08] Interviewer: Thank you, have a great day.
